@@ -2,7 +2,7 @@
 ### Author: Nikita Upadhyay
 
 ## 🔐 Summary  
-This program is a command-line utility written in C that encrypts or decrypts the contents of text files based on user input. The user can provide a file located in the `miniproject2` folder and choose to either encrypt (`-E`) or decrypt (`-D`) the file. The encryption algorithm transforms characters into hexadecimal representations with ASCII shifts and special handling for tabs and newlines. The program generates a `.crp` file for encryption and a `.txt` file for decryption, while ensuring existing output files are not overwritten.
+This program is a command-line utility written in C that encrypts or decrypts the contents of text files based on user input. The user can provide a file located in the designated folder and choose to either encrypt (`-E`) or decrypt (`-D`) the file. The encryption algorithm transforms characters into hexadecimal representations with ASCII shifts and special handling for tabs and newlines. The program generates a `.crp` file for encryption and a `.txt` file for decryption, while ensuring existing output files are not overwritten.
 
 This project highlights fundamental C programming techniques such as file I/O, string manipulation, ASCII encoding, and command-line argument handling.
 
