@@ -25,10 +25,13 @@ This project highlights fundamental C programming techniques such as file I/O, s
 
 2. **Compile the program**
 - Use GCC (or any C compiler) to compile:  
+  ```bash  
   gcc cryptoMagic.c -o cryptoMagic.exe
 
 3. **Run the program**
 - To encrypt a file:  
+  ```bash  
   ./cryptoMagic.exe -E filename.txt
 - To decrypt a file:  
+  ```bash  
   ./cryptoMagic.exe -D filename.crp
