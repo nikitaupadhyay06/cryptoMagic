@@ -20,7 +20,7 @@ This project highlights fundamental C programming techniques such as file I/O, s
 1. **Clone the repository**  
 - Open your terminal and run:  
   ```bash  
-  git clone https://github.com/yourusername/cryptoMagic.git  
+  git clone https://github.com/nikitaupadhyayy/cryptoMagic.git  
   cd cryptoMagic
 
 2. **Compile the program**
